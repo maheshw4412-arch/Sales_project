@@ -1,0 +1,54 @@
+1. Revenue & Profitability (Financial Performance)
+The Business Ask:
+ "How are our top-line sales and bottom-line profits tracking over time,
+  and where are we losing money?"
+
+What you look for:
+ Total revenue ,
+  net sales,
+   profit margins,
+    and loss-making transactions
+     or discounts.
+
+2. Product & Inventory Performance (Merchandising)
+The Business Ask:
+ "Which products and categories are actually driving our revenue,
+ and which ones have high return rates?"
+
+What you look for: 
+Top-selling categories/subcategories,
+ high-return items,
+  and unit price vs. quantity trends.
+
+3. Customer Segmentation & Behavior (Sales & Marketing)
+The Business Ask:
+ "Who are our most valuable customer segments, and how do their purchasing habits differ?"
+
+What you look for:
+ Corporate vs. Consumer vs. Home Office buying behavior,
+  order volume, 
+  and customer satisfaction scores.
+
+4. Regional & Operational Efficiency (Logistics)
+The Business Ask:
+ "Are certain regions underperforming,
+  and how does delivery time impact customer satisfaction?"
+
+What you look for:
+ City/regional sales breakdowns,
+  shipping duration, and payment method preferences.
+
+
+
+ 
+ Project 1 (Python):
+  Customer Segmentation & Sales Trend Analysis 
+  (Focus on data prep and behavioral grouping).
+
+Project 2 (SQL): 
+Enterprise Sales & Regional Profitability Audit
+ (Focus on relational data and aggregated metrics).
+
+Project 3 (Power BI): 
+Executive Sales Performance Dashboard 
+(Focus on stakeholder reporting and KPIs).
